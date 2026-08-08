@@ -1,0 +1,6 @@
+title: Sukun · سُكون
+description: Privacy and support information for the Sukun iPhone app.
+theme: minima
+lang: en
+plugins:
+  - jekyll-seo-tag
